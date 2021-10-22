@@ -64,7 +64,7 @@ AWS EC2 환경(Ubuntu 18.04)에서 GitLab에 Push 할 때 마다, 자동으로 �
 
 6. 체크한 후, Install without restart를 누른다.
 
-![image-20211022224403519](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211022224403519.png)
+![image-20211022224403519](https://raw.githubusercontent.com/BaekYuri/images/main/img/image-20211022224403519.png)
 
 ## Nodejs 설정
 
